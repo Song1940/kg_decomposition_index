@@ -1,7 +1,7 @@
 # kg_decomposition_index
 
 # kgcore_index
-This is the implementation of kg-core index, which is described in the following papaer submitted EDBT 2026:
+This is the implementation of kg-core index, which is described in the following papaer accepted in EDBT 2026:
 - Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs
 
 ## This repository contains the index construction algorithms and query processing algorithms for each index.
